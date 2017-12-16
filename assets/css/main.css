@@ -1547,7 +1547,7 @@
 	}
 
 		hr.major {
-			margin: 4.5em 0;
+			margin: 3.5em 0;
 		}
 
 	blockquote {
@@ -1936,14 +1936,14 @@
 /* Image */
 
 	.image {
-		border-radius: 3px;
+		border-radius: 45px;
 		border: 0;
 		display: inline-block;
 		position: relative;
 	}
 
 		.image img {
-			border-radius: 3px;
+			border-radius: 45px;
 			display: block;
 		}
 
