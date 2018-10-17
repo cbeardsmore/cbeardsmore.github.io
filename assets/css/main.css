@@ -1828,6 +1828,7 @@ input, select, textarea {
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
+		border-radius: 0.6em;
 	}
 
 		.icon:before {
@@ -2485,6 +2486,7 @@ input, select, textarea {
 						height: 8em;
 						line-height: 8em;
 						width: 8em;
+						border-radius: 0.375em;
 					}
 		}
 
