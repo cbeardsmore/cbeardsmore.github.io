@@ -146,7 +146,6 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
-		border-bottom: dotted 1px;
 		color: #4AE1FF;
 		text-decoration: none;
 	}
@@ -3080,7 +3079,7 @@ input, select, textarea {
 					line-height: 5em;
 					position: absolute;
 					right: -0.5em;
-					top: 0;
+					top: 2em;
 				}
 
 		}
